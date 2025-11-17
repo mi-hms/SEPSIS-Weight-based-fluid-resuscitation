@@ -1,2 +1,5 @@
 # SEPSIS-Weight-based-fluid-resuscitation
-Weight-based fluid resuscitation in sepsis; a multihospital cohort study
+Code related to Sepsis Manuscript: Weight-based fluid resuscitation in sepsis; a multihospital cohort study
+
+Codes Included:
+...
