@@ -1,5 +1,5 @@
 # SEPSIS-Weight-based-fluid-resuscitation
-## Code related to Sepsis Manuscript: Weight-based fluid resuscitation in sepsis; a multihospital cohort study
+## This page is about code related to the Sepsis Manuscript:  _Weight-based fluid resuscitation in sepsis; a multihospital cohort study_
 
 ### <ins>Codes Included:</ins>  
 **Fluid by Weight table Creation Manuscript RR_27Oct2025_Github** - Code used to clean/create variables, perform IPTW, and output some counts for tables.  
